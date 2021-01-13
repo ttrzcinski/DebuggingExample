@@ -1,0 +1,16 @@
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp3.1/DebuggingExample.deps.json
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp3.1/DebuggingExample.runtimeconfig.json
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp3.1/DebuggingExample.runtimeconfig.dev.json
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp3.1/DebuggingExample.dll
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp3.1/DebuggingExample.pdb
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp3.1/Amazon.Lambda.APIGatewayEvents.dll
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp3.1/Amazon.Lambda.Core.dll
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/bin/Release/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp3.1/DebuggingExample.csprojAssemblyReference.cache
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp3.1/DebuggingExample.AssemblyInfoInputs.cache
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp3.1/DebuggingExample.AssemblyInfo.cs
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp3.1/DebuggingExample.csproj.CoreCompileInputs.cache
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp3.1/DebuggingExample.csproj.CopyComplete
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp3.1/DebuggingExample.dll
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp3.1/DebuggingExample.pdb
+/home/rzeznik/dotnetProjects/DebuggingExample/src/DebuggingExample/obj/Release/netcoreapp3.1/DebuggingExample.genruntimeconfig.cache
